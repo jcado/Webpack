@@ -1,0 +1,1 @@
+(()=>{"use strict";var o=[1,2,3];codeESNext=function(){var n;return(n=console).log.apply(n,o)},console.log("hola mundo sin configuracion sin webpack"),codeESNext()})();
